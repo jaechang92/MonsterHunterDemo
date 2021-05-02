@@ -1,4 +1,0 @@
-Public void main()
-{
-	debug.log("This code is test code");
-}
